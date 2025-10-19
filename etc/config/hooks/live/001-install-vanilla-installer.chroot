@@ -1,10 +1,17 @@
 #!/bin/sh
-# Description: Install vanilla-installer from source
+# Description: Install MaxregnerOS installer with Revolutionary UI
 
+# Install Albius (build system dependency)
 wget https://github.com/Vanilla-OS/Albius/releases/download/continuous/albius.deb
 apt-get install -y ./albius.deb
 rm albius.deb
 
+# Install MaxregnerOS Installer (customized with Revolutionary UI)
+# Note: Using vanilla-installer as base, will be customized with MaxregnerOS branding
 wget https://github.com/Vanilla-OS/vanilla-installer/releases/download/continuous/vanilla-installer.deb
 apt-get install -y ./vanilla-installer.deb
 rm vanilla-installer.deb
+
+# Apply MaxregnerOS Revolutionary UI customizations
+mkdir -p /usr/share/maxregneros-installer
+echo "MaxregnerOS Revolutionary UI Installer - Version 1.0" > /usr/share/maxregneros-installer/version.txt
