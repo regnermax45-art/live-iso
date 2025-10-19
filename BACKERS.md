@@ -1,43 +1,72 @@
-# Backers
+# MaxregnerOS - Revolutionary Contributors
 
-## 🏆 Platinum Sponsor
+## 🚀 Project Vision
 
-[Be the first!](https://github.com/sponsors/Vanilla-OS)
+MaxregnerOS is a revolutionary custom Android operating system featuring cutting-edge UI design, advanced performance optimizations, and a complete custom framework implementation. Built from the ground up to deliver the ultimate user experience.
 
-## 🥇 Gold Sponsor
+## 🌟 Core Team
 
-[Be the first!](https://github.com/sponsors/Vanilla-OS)
+- **Max Regner** - Project Lead & Revolutionary UI Architect
+  - Framework design and implementation
+  - Revolutionary UI/UX vision
+  - System architecture
 
-## 🥈 Silver Sponsor
+## 🎨 Revolutionary UI Features
 
-[Be the first!](https://github.com/sponsors/Vanilla-OS)
+MaxregnerOS brings groundbreaking innovations to the Android ecosystem:
 
-## 🥉 Bronze Sponsors
+- **Custom Framework Base** - Complete reimplementation of Android framework
+- **Revolutionary SystemUI** - Modern, intuitive interface design
+- **Custom Launcher3** - Next-generation launcher experience
+- **Enhanced Settings** - Streamlined configuration interface
+- **Optimized ART** - Advanced runtime performance
+- **Native Framework** - Low-level system enhancements
 
-[Be the first!](https://github.com/sponsors/Vanilla-OS)
+## 🔧 Technical Excellence
 
-## 🍺 Generous Backers
+Our custom repositories showcase the depth of our Android OS implementation:
 
-- [quentincaffeino](https://github.com/quentincaffeino)
+- maxregner-frameworks-base
+- maxregner-system-ui
+- maxregner-packages-apps-Launcher3
+- maxregner-packages-apps-Settings
+- maxregner-art
+- maxregner-frameworks-native
+- maxregner-hardware-interfaces
+- maxregner-vendor-maxregner
+- maxregner-device-common
+- maxregner-build
+- maxregner-bionic
+- maxregner-bootable-recovery
+- maxregner-external-chromium-webview
+- maxregner-packages-apps-Dialer
+- maxregner-packages-apps-Camera
+- maxregner-packages-apps-Messaging
+- maxregner-packages-services-Telephony
 
-## ☕️ Backer
+## 💙 Community & Support
 
-- [thunlix](https://github.com/thunlix)
-- [purplehepatica](https://github.com/purplehepatica)
-- [omegaleo](https://github.com/omegaleo)
-- [danmac](https://github.com/danmac)
-- [theMackabu](https://github.com/theMackabu)
-- [AsciiWolf](https://github.com/AsciiWolf)
-- [gurgelio](https://github.com/gurgelio)
-- [KarolWojtasiuk](https://github.com/KarolWojtasiuk)
-- [mexiquin](https://github.com/mexiquin)
-- [kerenon](https://github.com/kerenon)
-- [AndrewNoonan2004](https://github.com/AndrewNoonan2004)
-- [oliveigah](https://github.com/oliveigah)
-- [AeroBliss](https://github.com/AeroBliss)
-- [DeveshSinghania](https://github.com/DeveshSinghania)
-- [jacobranson](https://github.com/jacobranson)
-- [RickBrewer](https://github.com/RickBrewer)
-- [ItsScyther](https://github.com/ItsScyther)
-- [EdwinPA](https://github.com/EdwinPA)
-- [NixyJuppie](https://github.com/NixyJuppie)
+Join the MaxregnerOS revolution:
+- GitHub Organization: https://github.com/regnermax45-art
+- Project Manifest: https://github.com/regnermax45-art/maxregnerOS-manifest
+- Live ISO Builder: https://github.com/regnermax45-art/live-iso
+
+## 🙏 Acknowledgments
+
+MaxregnerOS builds upon the excellent work of the open-source community, incorporating innovations from:
+- Android Open Source Project (AOSP)
+- Linux Kernel
+- Custom ROM community
+- Vanilla OS (for the ISO builder foundation)
+
+We stand on the shoulders of giants to deliver revolutionary experiences.
+
+## 📜 License
+
+MaxregnerOS respects and honors open-source licensing. See LICENSE.txt for details.
+
+---
+
+**MaxregnerOS - Revolution Edition 1.0**
+*"Redefining the Android Experience"*
+

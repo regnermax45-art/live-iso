@@ -1,22 +1,29 @@
 #!/bin/sh
-# Description: Set Vanilla OS name and info
+# Description: Set MaxregnerOS name and info with Revolutionary UI
 
 # Prepare
-distro_pretty_name="@DISTRO_NAME @VERSION @CHANNEL"
+distro_pretty_name="@DISTRO_NAME @VERSION @CHANNEL - Revolutionary UI Edition"
 
-# Set OS name
-echo "$distro_pretty_name /\n /\l" > /etc/issue
+# Set OS name with stylish banner
+echo "
+╔══════════════════════════════════════════╗
+║     🚀 MaxregnerOS Revolutionary UI     ║
+║            Version @VERSION              ║
+╚══════════════════════════════════════════╝
+$distro_pretty_name /\n /\l" > /etc/issue
 
 # Set OS info
 echo 'PRETTY_NAME="'$distro_pretty_name'"
 NAME="@DISTRO_NAME"
 VERSION_ID="@VERSION"
-VERSION="@VERSION @CHANNEL"
+VERSION="@VERSION @CHANNEL - Revolutionary UI"
 VERSION_CODENAME="@CODENAME"
-ID=ubuntu
+ID=maxregneros
 ID_LIKE=debian
-HOME_URL="https://github.com/vanilla-os"
-SUPPORT_URL="https://github.com/vanilla-os"
-BUG_REPORT_URL="https://github.com/vanilla-os"
-PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+HOME_URL="https://github.com/regnermax45-art/maxregnerOS-manifest"
+SUPPORT_URL="https://github.com/regnermax45-art"
+BUG_REPORT_URL="https://github.com/regnermax45-art/maxregnerOS-manifest/issues"
+DOCUMENTATION_URL="https://github.com/regnermax45-art/maxregnerOS-manifest"
+LOGO="maxregneros"
+ANSI_COLOR="1;36"
 UBUNTU_CODENAME="@BASECODENAME"' > /etc/os-release
