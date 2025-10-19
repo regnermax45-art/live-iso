@@ -13,4 +13,5 @@ apt-get install -y ./vanilla-installer.deb
 rm vanilla-installer.deb
 
 # Apply MaxregnerOS Revolutionary UI customizations
+mkdir -p /usr/share/maxregneros-installer
 echo "MaxregnerOS Revolutionary UI Installer - Version 1.0" > /usr/share/maxregneros-installer/version.txt
